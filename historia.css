@@ -1,0 +1,19 @@
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right: 30%;
+}
+
+.box {
+    border-style: double;
+    border-color: rgb(88, 88, 88);
+    height: 425px;
+    width: 210px;
+    margin-left: 82%;
+    margin-top: -33%;
+    background-color: rgb(185, 185, 185);
+}
+
+.wiki {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70%;
+}
